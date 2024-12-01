@@ -20,12 +20,12 @@ You can install them using `pip`:
 
 
 pip install pandas scikit-learn nltk
-``
+```
 
 ## Project Structure
 ```
 ├── Cosine-sim.ipynb    # Main Python script for recommendation logic
-├── tmkoc_episodes.csv      # CSV file containing episode data (episode_number, Episode_title, description, Episode_runtime, Released_on)
+├── tmkoc_episode.csv      # CSV file containing episode data (episode_number, Episode_title, description, Episode_runtime, Released_on)
 ├── README.md               # Project documentation
 ```
 
